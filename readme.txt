@@ -1,4 +1,1 @@
-git is a distributed version control system.
-git is free software.
-git has a mutable index called stage.
-git tracks changes.
+此项目爬取了2017年9月22日的大众点评的上海区域的美食栏目里的信息，共18个区，每个区50页，数据共1万余条
